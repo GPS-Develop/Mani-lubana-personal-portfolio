@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing my journey as a Softw
 
 ## 🚀 Live Demo
 
-[mani-lubana.netlify.app](mani-lubana.netlify.app)
+[mani-lubana.netlify.app](https://mani-lubana.netlify.app)
 
 ## 📖 About
 
