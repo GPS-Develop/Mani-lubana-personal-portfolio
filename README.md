@@ -132,9 +132,9 @@ This portfolio can be deployed on any static hosting service:
 
 ## 💼 Experience
 
-- **Truck Driver** - Bliss Carriers *(Jul 2021 - Present)*
-- **Self-employed** - Wave Carriers *(Jun 2018 - Jun 2021)*
-- **Dispatcher** - Wave Carriers *(Jun 2018 - Mar 2021)*
+- **Trucking Company Owner** - Bliss Carriers *(Mar 2021 - Present)*
+- **Dispatcher** - Wave Carriers *(Mar 2019 - Mar 2021)*
+- **Truck Driver** - Wave Carriers *(Jan 2016 - Feb 2019)*
 
 ## 🔍 Skills
 
