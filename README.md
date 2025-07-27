@@ -1,4 +1,4 @@
-# Mani Lubana - Personal Portfolio
+# Gurpreet Lubana - Personal Portfolio
 
 A modern, responsive personal portfolio website showcasing my journey as a Software Engineering student and logistics expert.
 
@@ -101,7 +101,7 @@ This portfolio can be deployed on any static hosting service:
 ## 📧 Contact
 
 - **Email**: gps.develops@gmail.com
-- **LinkedIn**: [linkedin.com/in/mani-lubana-a2651b107](https://linkedin.com/in/mani-lubana-a2651b107)
+- **LinkedIn**: [linkedin.com/in/gurpreet-singh-a4526b2b8](https://www.linkedin.com/in/gurpreet-singh-a4526b2b8)
 - **GitHub**: [github.com/GPS-Develop](https://github.com/GPS-Develop)
 - **Location**: Toronto, Canada
 

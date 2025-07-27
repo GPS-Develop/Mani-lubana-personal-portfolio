@@ -1,6 +1,6 @@
 /**
  * Portfolio Interactive Functionality
- * Author: Mani Lubana
+ * Author: Gurpreet Lubana
  */
 
 // ==========================================================================
